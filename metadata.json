@@ -1,0 +1,5 @@
+{
+  "name": "IoT Device Security Scanner",
+  "description": "A modern, secure, and responsive web application that helps users identify vulnerable IoT (Internet of Things) devices on their home or business networks by simulating a network scan and reporting potential security weaknesses.",
+  "requestFramePermissions": []
+}
